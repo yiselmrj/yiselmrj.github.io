@@ -1,0 +1,14 @@
+h1{
+  color: black;
+}
+body{
+  background-color:
+    lightblue;
+}
+#myID{
+  color: purple;
+}
+
+.myStuff{
+  border: 3px grey;
+}
